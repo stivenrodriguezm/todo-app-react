@@ -1,0 +1,20 @@
+
+.TodoCounter{
+    font-size: 24px;
+    text-align: center;
+    margin: 0 25px 20px;
+    color: white;
+}
+
+.counter_div{
+    background: linear-gradient(to right, rgb(38, 38, 128), rgb(30, 153, 61));
+    height: 180px;    
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+
+}
+
+.search_div{
+    margin: 0 25px 20px;
+}

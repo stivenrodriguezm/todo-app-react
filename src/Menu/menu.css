@@ -1,0 +1,29 @@
+
+.container_menu{
+    background-color: rgba(169, 173, 212, 0.3);
+    width: 260px;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+.encabezado_menu{
+    margin: 15px 0;
+    height: 85px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+.encabezado_menu p{
+    margin: 0 auto;
+    font-size: 19px;
+}
+
+.navegacion_menu{
+    height: 285px;
+    padding: 5px 15px;
+}
+.navegacion_menu nav a{
+    cursor: pointer;
+}

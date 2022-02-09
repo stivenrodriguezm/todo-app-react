@@ -1,0 +1,28 @@
+.formulario{
+    background-color: rgba(55, 93, 116, 0.2);
+    height: 250px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 15px;
+    border: 2px solid rgb(20, 62, 87);
+}
+
+.formulario label{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.formulario textarea{
+    border: 1px solid black;
+    height: 130px;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: rgb(219, 219, 219);
+}
+
+.botones_div button{
+    height: 40px;
+    width: 50%;
+}

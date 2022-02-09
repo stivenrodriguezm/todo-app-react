@@ -1,0 +1,19 @@
+
+.todo-search{
+    display: flex;
+    height: 40px;
+}
+.search{
+    margin: 0 auto;
+    height: 100%;
+    width: 280px;
+    padding: 0 15px;
+    border: 1px solid rgb(86, 69, 144);
+    border-radius: 10px;
+    background: rgba(67, 90, 167, 0.3);
+    color: white;
+}
+
+.search::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}

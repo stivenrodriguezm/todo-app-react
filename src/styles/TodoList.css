@@ -1,0 +1,13 @@
+
+
+.section_todo_list {
+    margin-top: 20px;
+    display: flex;
+}
+
+.todo_list{
+    margin: 0 auto;
+    list-style: none;
+    width: 90%;
+    padding: 5px 10px;
+}
